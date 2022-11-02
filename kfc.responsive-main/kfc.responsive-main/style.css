@@ -1,0 +1,23 @@
+.nav-item:hover{
+    color: red;
+}
+.btns{
+   
+    background-color: red;
+    color: white;
+    border: none;
+}
+.div1{
+    width: 25%;
+    background: red;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+.col-sm{
+    border: none;
+    background: red;
+    height: 64px;
+    color: white;
+    font-size: 19px;
+}
